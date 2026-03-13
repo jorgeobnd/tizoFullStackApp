@@ -57,8 +57,8 @@ La aplicación ha sido desplegada y está lista para su revisión en línea. No 
 
 | Componente | URL de Acceso | Estado |
 | :--- | :--- | :--- |
-| **Frontend (App Principal)** | **[https://frontend-six-sigma-27.vercel.app/]** | 🟢 Online |
-| **Backend (API)** | `[https://backend-production-91eae.up.railway.app/api/branches]` | 🟢 Online |
+| **Frontend (App Principal)** | **https://frontend-six-sigma-27.vercel.app/** | 🟢 Online |
+| **Backend (API)** | **https://backend-production-91eae.up.railway.app/api/branches** | 🟢 Online |
 
 > **Nota para el Evaluador:** El despliegue se realiza en [Plataforma, ej. Render/Railway]. El primer arranque puede demorar unos segundos debido al "cold start" del servicio gratuito.
 
