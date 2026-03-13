@@ -60,7 +60,8 @@ La aplicación ha sido desplegada y está lista para su revisión en línea. No 
 | **Frontend (App Principal)** | **https://frontend-six-sigma-27.vercel.app/** | 🟢 Online |
 | **Backend (API)** | **https://backend-production-91eae.up.railway.app** | 🟢 Online |
 
-> **Nota para el Evaluador:** El despliegue se realiza en [Plataforma, ej. Render/Railway]. El primer arranque puede demorar unos segundos debido al "cold start" del servicio gratuito.
+> **Nota para el Evaluador:** El despliegue se realiza en [Railway y Vercel]. El primer arranque puede demorar unos
+segundos debido al "cold start" del servicio gratuito.
 
 ---
 
