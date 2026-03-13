@@ -14,13 +14,13 @@ El proyecto está dividido en dos micro-aplicaciones independientes pero integra
     *   Expone una API RESTful robusta.
     *   Gestiona la lógica de negocio y la integridad de datos.
     *   Utiliza **H2 Database** (en memoria) para persistencia rápida y volátil.
-    *   [Ver detalles técnicos y arquitectura del Backend](./backend/README.md)
+    *   [Ver detalles técnicos y arquitectura del Backend](https://github.com/jorgeobnd/backend/tree/master)
 
 2.  **Frontend (Angular 16+):**
     *   Interfaz de Usuario reactiva y optimista.
     *   Diseñada con **Tailwind CSS** para una experiencia limpia y responsiva.
     *   Implementa patrones de UX para editar inventarios en tiempo real.
-    *   [Ver detalles de UX y componentes del Frontend](./frontend/README.md)
+    *   [Ver detalles de UX y componentes del Frontend](https://github.com/jorgeobnd/frontend/tree/master)
 
 ---
 
@@ -57,9 +57,8 @@ La aplicación ha sido desplegada y está lista para su revisión en línea. No 
 
 | Componente | URL de Acceso | Estado |
 | :--- | :--- | :--- |
-| **Frontend (App Principal)** | **[ENLACE_PENDIENTE_FRONTEND]** | 🟢 Online |
-| **Backend (API)** | `[ENLACE_PENDIENTE_BACKEND]` | 🟢 Online |
-| **Documentación API** | `[ENLACE_PENDIENTE_BACKEND]/swagger-ui.html` | 🟡 Opcional |
+| **Frontend (App Principal)** | **[https://frontend-six-sigma-27.vercel.app/]** | 🟢 Online |
+| **Backend (API)** | `[https://backend-production-91eae.up.railway.app/api/branches]` | 🟢 Online |
 
 > **Nota para el Evaluador:** El despliegue se realiza en [Plataforma, ej. Render/Railway]. El primer arranque puede demorar unos segundos debido al "cold start" del servicio gratuito.
 
